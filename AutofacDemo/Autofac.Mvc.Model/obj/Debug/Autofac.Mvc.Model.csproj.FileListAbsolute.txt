@@ -1,0 +1,5 @@
+D:\dotnet\AutofacDemo\Autofac.Mvc.Model\bin\Debug\Autofac.Mvc.Model.dll
+D:\dotnet\AutofacDemo\Autofac.Mvc.Model\bin\Debug\Autofac.Mvc.Model.pdb
+D:\dotnet\AutofacDemo\Autofac.Mvc.Model\obj\Debug\Autofac.Mvc.Model.csproj.CoreCompileInputs.cache
+D:\dotnet\AutofacDemo\Autofac.Mvc.Model\obj\Debug\Autofac.Mvc.Model.dll
+D:\dotnet\AutofacDemo\Autofac.Mvc.Model\obj\Debug\Autofac.Mvc.Model.pdb

@@ -1,0 +1,11 @@
+D:\dotnet\AutofacDemo\Test\bin\Debug\Test.dll
+D:\dotnet\AutofacDemo\Test\bin\Debug\Test.pdb
+D:\dotnet\AutofacDemo\Test\bin\Debug\Autofac.Mvc.Model.dll
+D:\dotnet\AutofacDemo\Test\bin\Debug\ITest.dll
+D:\dotnet\AutofacDemo\Test\bin\Debug\Autofac.Mvc.Model.pdb
+D:\dotnet\AutofacDemo\Test\bin\Debug\ITest.pdb
+D:\dotnet\AutofacDemo\Test\obj\Debug\Autofac.Mvc.Test.csprojAssemblyReference.cache
+D:\dotnet\AutofacDemo\Test\obj\Debug\Autofac.Mvc.Test.csproj.CoreCompileInputs.cache
+D:\dotnet\AutofacDemo\Test\obj\Debug\Autofac.Mvc.Test.csproj.CopyComplete
+D:\dotnet\AutofacDemo\Test\obj\Debug\Test.dll
+D:\dotnet\AutofacDemo\Test\obj\Debug\Test.pdb

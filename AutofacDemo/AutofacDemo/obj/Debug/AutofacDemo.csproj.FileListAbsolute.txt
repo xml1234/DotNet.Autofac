@@ -1,0 +1,11 @@
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.exe.config
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.exe
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.pdb
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\Autofac.Configuration.dll
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\Autofac.dll
+D:\dotnet\AutofacDemo\AutofacDemo\bin\Debug\Autofac.xml
+D:\dotnet\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.csproj.CoreCompileInputs.cache
+D:\dotnet\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.csproj.CopyComplete
+D:\dotnet\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.exe
+D:\dotnet\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.pdb
+D:\dotnet\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.csprojAssemblyReference.cache
