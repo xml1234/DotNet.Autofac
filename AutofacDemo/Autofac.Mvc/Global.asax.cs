@@ -24,18 +24,16 @@ namespace Autofac.Mvc
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
 
-            ////Autofac初始化过程
-            //var builder = new ContainerBuilder();
-            ////builder.RegisterControllers(typeof(MvcApplication).Assembly);//注册所有的Controller
-            //builder.RegisterFilterProvider();
-
-
             var builder = new ContainerBuilder();
             builder.RegisterType(typeof(UserRepositories)).As(typeof(IUserRepositories));
             builder.RegisterControllers(typeof(MvcApplication).Assembly);//注册所有的Controller
             // builder.RegisterModule<AutofacWebTypesModule>();
             var container = builder.Build();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
+
+
+            //Quartz作业调度
+
 
         }
     }
