@@ -7,3 +7,12 @@ D:\dotnet\AutofacDemo\ITest\obj\Debug\Autofac.Mvc.ITest.csproj.CoreCompileInputs
 D:\dotnet\AutofacDemo\ITest\obj\Debug\Autofac.Mvc.ITest.csproj.CopyComplete
 D:\dotnet\AutofacDemo\ITest\obj\Debug\ITest.dll
 D:\dotnet\AutofacDemo\ITest\obj\Debug\ITest.pdb
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\bin\Debug\ITest.dll
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\bin\Debug\ITest.pdb
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\bin\Debug\Autofac.Mvc.Model.dll
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\bin\Debug\Autofac.Mvc.Model.pdb
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\obj\Debug\Autofac.Mvc.ITest.csprojAssemblyReference.cache
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\obj\Debug\Autofac.Mvc.ITest.csproj.CoreCompileInputs.cache
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\obj\Debug\Autofac.Mvc.ITest.csproj.CopyComplete
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\obj\Debug\ITest.dll
+D:\dotnet\DotNet.Autofac\AutofacDemo\ITest\obj\Debug\ITest.pdb

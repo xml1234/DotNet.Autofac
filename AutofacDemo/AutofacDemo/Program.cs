@@ -9,15 +9,17 @@ namespace AutofacDemo
         private static IContainer _container;
         private static void Main(string[] args)
         {
-            InitIoC();
+            Quartz.QuartzMain();
 
-            var lister = _container.Resolve<MPGMovieLister>();
+            //InitIoC();
 
-            foreach (var movie in lister.GetMPG())
-            {
-                Console.WriteLine(movie.Name);
-            }
-            Console.Read();
+            //var lister = _container.Resolve<MPGMovieLister>();
+
+            //foreach (var movie in lister.GetMPG())
+            //{
+            //    Console.WriteLine(movie.Name);
+            //}
+            //Console.Read();
         }
 
 
